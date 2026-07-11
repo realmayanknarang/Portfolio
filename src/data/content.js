@@ -104,7 +104,7 @@ export const projects = [
     tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Socket.IO', 'Python (Flask + Prophet)'],
     liveUrl: '#',
     githubUrl: 'https://github.com/realmayanknarang/SmartBrick',
-    image: null,
+    image:' /projects/SmartBrick.png',
   },
   {
     id: 2,
@@ -114,7 +114,7 @@ export const projects = [
     tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Socket.IO'],
     liveUrl: '#',
     githubUrl: 'https://github.com/realmayanknarang/Wave',
-    image: null,
+    image: '/projects/Wave.png',
   },
   {
     id: 3,
@@ -124,6 +124,16 @@ export const projects = [
     tech: ['Node.js', 'Express.js', 'EJS', 'OpenWeather API'],
     liveUrl: '#',
     githubUrl: 'https://github.com/realmayanknarang/weatherapp',
+    image: '/projects/WeatherApp.png',
+  },
+  {
+    id: 4,
+    title: 'ToDoList Application',
+    description:
+      'A simple ToDoList application that allows users to create, update, and delete tasks. It features a clean and intuitive interface for managing daily activities.',
+    tech: ['Node.js', 'Express.js', 'EJS', 'MongoDB'],
+    liveUrl: '#',
+    githubUrl: 'https://github.com/realmayanknarang/TodoList',
     image: null,
   },
 ]
