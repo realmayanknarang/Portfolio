@@ -134,7 +134,7 @@ export const projects = [
     tech: ['Node.js', 'Express.js', 'EJS', 'MongoDB'],
     liveUrl: '#',
     githubUrl: 'https://github.com/realmayanknarang/TodoList',
-    image: null,
+    image: 'projects/ToDo.png',
   },
 ]
 
