@@ -6,7 +6,7 @@
 
 export const profile = {
   name: 'Mayank Narang',
-  role: 'Full-Stack Developer | Machine Learning Enthusiast',
+  role: 'Full-Stack Developer',
   tagline: 'Building intelligent solutions. Solving meaningful problems.',
   location: 'Chandigarh, India',
   email: 'imayanknarang@gmail.com',
